@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "A8B3915417773C81A5A62E707B440654",
+  "keywordClasses": [
+    {
+      "name": "general.helper",
+      "keywordMethods": [
+        {
+          "name": "backToHome",
+          "parameters": [
+            {
+              "name": "appName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

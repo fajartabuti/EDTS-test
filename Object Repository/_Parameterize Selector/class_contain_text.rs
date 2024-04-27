@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>class_contain_text</name>
+   <tag></tag>
+   <elementGuidId>b680a9f9-7aff-4263-afcb-3ec47139945a</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>09033bd8-5cfe-48dd-8637-b72d21749021</webElementGuid>
+   </webElementProperties>
+   <locator>//${class}[contains(@text,'${text}')]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>

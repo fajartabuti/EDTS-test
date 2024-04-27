@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Order Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6bf146d1-b982-4160-9aab-01e4084c5abb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e2288f2e-2f51-4a72-94e1-6d658fd6557a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cfc4b7ce-8b0f-4fa3-8a20-49547547b751</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2f99abfd-bd23-44af-b223-e2d145edc109</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>[('Gula') : 2, ('Beras') : 1]</defaultValue>
+      <description></description>
+      <id>e2288f2e-2f51-4a72-94e1-6d658fd6557a</id>
+      <masked>false</masked>
+      <name>products</name>
+   </variable>
+   <variable>
+      <defaultValue>'Regular'</defaultValue>
+      <description></description>
+      <id>cfc4b7ce-8b0f-4fa3-8a20-49547547b751</id>
+      <masked>false</masked>
+      <name>shippingMethod</name>
+   </variable>
+   <variable>
+      <defaultValue>'BCA Virtual Account'</defaultValue>
+      <description></description>
+      <id>2f99abfd-bd23-44af-b223-e2d145edc109</id>
+      <masked>false</masked>
+      <name>paymentMethod</name>
+   </variable>
+</TestCaseEntity>
